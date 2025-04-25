@@ -4,7 +4,7 @@
 This project analyzes Titanic passenger data to predict survival using various machine learning models and showcases a full data science pipeline including EDA, data cleaning, feature engineering, model training, and evaluation.
 
 ## Project Structure
-
+```
 ├── data/
 │   └── tested.csv                # Titanic dataset
 ├── notebooks/
@@ -17,7 +17,7 @@ This project analyzes Titanic passenger data to predict survival using various m
 │   └── main.py                   # Runs full pipeline
 ├── requirements.txt              # Required Python packages
 └── README.md
-
+```
 ## Objective
 
 The goal is to explore the Titanic dataset, understand key patterns using Exploratory Data Analysis (EDA), and build models to predict which passengers survived the Titanic disaster.
